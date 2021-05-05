@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**HuaTrung/HuaTrung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Backend Engineer working in Ho Chi Minh, Viet Nam.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Crafted last [Unboxx](https://unboxx.vn/) website;
+- 🍑 What about this?
+
+##### BIO
+
+- 🏢 I'm currently working at **Ho Chi Minh, Viet Nam**
+- ⚙️ I use daily: `.java`, `.python`, `.golang``
+- 💅 Personal project: [Sound of sorting](https://trunghua-sorting.netlify.app/)
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**,**development**, **design thinking**
+- 📫 Reach me: [huatrung](https://www.linkedin.com/in/huatrung/)
+- ⚡️ Fun fact: I'm a huge fan of Dota2
