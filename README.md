@@ -3,9 +3,8 @@
 #### I'm a Backend Engineer working in Ho Chi Minh, Viet Nam.
 
 ##### NOW
-
+- 🍑 Gardener at [trunghua](https://trunghua.dev/)
 - ✨ Crafted last [Unboxx](https://unboxx.vn/) website.
-- 🍑 What about this?
 
 ##### BIO
 
