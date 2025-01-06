@@ -4,7 +4,7 @@
 
 ##### NOW
 - 🍑 Gardener at [trunghua](https://trunghua.dev/)
-- ✨ Crafted last [Wrista](https://wrista.net/) website.
+- ✨ Crafted [Wrista](https://wrista.net/) website.
 
 ##### BIO
 
